@@ -10,6 +10,7 @@
 ## 简介：
 
 一个Android项目中不常使用(国内就华为有)的虚拟导航栏控制帮助类.有问题欢迎issue。
+后续版本迁移至[UIWidget](https://github.com/AriesHoo/UIWidget)维护不再做更新
 
 ## 主要功能
 
